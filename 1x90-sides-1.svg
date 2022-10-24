@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.6033145"
-     inkscape:cx="264.66261"
+     inkscape:cx="263.31817"
      inkscape:cy="150.9614"
      inkscape:window-width="2560"
      inkscape:window-height="1389"
@@ -38,10 +38,67 @@
   <path
      id="path143"
      style="fill:none;stroke:#000000;stroke-opacity:1"
-     d="m 0,-298.88332 v 8.99997 h 2.9998169 v 7.3334 H 0 v 7.3334 h 2.9998169 v 7.33289 H 0 v 9.00048 h 8.9999674 v -3.00033 h 6.4207966 v 3.00033 h 6.421314 v -3.00033 h 6.420796 v 3.00033 h 6.421314 v -3.00033 h 6.420797 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.42183 v -3.00033 h 6.420797 v 3.00033 h 6.421313 v -3.00033 h 6.420797 v 3.00033 h 6.421314 v -3.00033 h 6.420794 v 3.00033 h 6.4208 v -3.00033 h 6.42131 v 3.00033 h 6.4208 v -3.00033 h 6.4208 v 3.00033 h 9.00048 v -9.00048 h -3.00033 v -7.33289 h 3.00033 v -7.3334 h -3.00033 v -7.3334 h 3.00033 v -8.99997 H 94.999886 v 25.00002 c 0,2.77 -2.229698,4.9997 -4.999695,4.9997 H 75.000073 c -2.769997,0 -5.000211,-2.2297 -5.000211,-4.9997 v -25.00002 z" />
+     d="m 0,-298.88332 v 8.99997 h 2.9998169 v 7.3334 H 0 v 7.3334 h 2.9998169 v 7.33289 H 0 v 9.00048 h 8.9999674 v -3.00033 h 6.4207966 v 3.00033 h 6.421314 v -3.00033 h 6.420796 v 3.00033 h 6.421314 v -3.00033 h 6.420797 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.42183 v -3.00033 h 6.420797 v 3.00033 h 6.421313 v -3.00033 h 6.420797 v 3.00033 h 6.421314 v -3.00033 h 6.420794 v 3.00033 h 6.4208 v -3.00033 h 6.42131 v 3.00033 h 6.4208 v -3.00033 h 6.4208 v 3.00033 h 9.00048 v -9.00048 h -3.00033 v -7.33289 h 3.00033 v -7.3334 h -3.00033 v -7.3334 h 3.00033 v -8.99997 H 93 v 25.00002 c 0,2.77 -2.230003,4.9997 -5,4.9997 H 73 c -2.769997,0 -5,-2.2297 -5,-4.9997 v -25.00002 z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsssscc" />
   <path
      id="path141"
      style="fill:none;stroke:#000000;stroke-opacity:1"
      d="m 0,-341 v 8.99997 h 2.9998169 v 7.3334 H 0 v 7.3334 h 2.9998169 v 7.3334 H 0 v 8.99997 h 8.9999674 v -3.00033 h 6.4213136 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421314 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421311 v 3.00033 h 6.4208 v -3.00033 h 6.42131 v 3.00033 h 6.4208 v -3.00033 h 6.4208 v 3.00033 h 9.00048 v -8.99997 h -3.00033 v -7.3334 h 3.00033 v -7.3334 h -3.00033 v -7.3334 h 3.00033 V -341 H 129 v 19.99981 c 0,2.77 -2.23,5.00021 -5,5.00021 H 79.999768 c -2.769997,0 -4.999695,-2.23021 -4.999695,-5.00021 V -341 Z"
      sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsssscc" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect443"
+     width="5"
+     height="5"
+     x="80"
+     y="-341" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect999"
+     width="5"
+     height="5"
+     x="90.583328"
+     y="-341" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect1001"
+     width="5"
+     height="5"
+     x="101.16666"
+     y="-341" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect1003"
+     width="5"
+     height="5"
+     x="111.74998"
+     y="-341" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect1005"
+     width="5"
+     height="5"
+     x="111.74998"
+     y="-330.41669" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect1007"
+     width="5"
+     height="5"
+     x="101.16665"
+     y="-330.41669" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect1009"
+     width="5"
+     height="5"
+     x="90.583321"
+     y="-330.41669" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none"
+     id="rect1011"
+     width="5"
+     height="5"
+     x="79.999992"
+     y="-330.41669" />
 </svg>
