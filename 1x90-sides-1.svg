@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="881mm"
+   height="341mm"
+   viewBox="0 -341 881 341"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="1x90-sides-1.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.6033145"
+     inkscape:cx="264.66261"
+     inkscape:cy="150.9614"
+     inkscape:window-width="2560"
+     inkscape:window-height="1389"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">OpenSCAD Model</title>
+  <path
+     id="path143"
+     style="fill:none;stroke:#000000;stroke-opacity:1"
+     d="m 0,-298.88332 v 8.99997 h 2.9998169 v 7.3334 H 0 v 7.3334 h 2.9998169 v 7.33289 H 0 v 9.00048 h 8.9999674 v -3.00033 h 6.4207966 v 3.00033 h 6.421314 v -3.00033 h 6.420796 v 3.00033 h 6.421314 v -3.00033 h 6.420797 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.42183 v -3.00033 h 6.420797 v 3.00033 h 6.421313 v -3.00033 h 6.420797 v 3.00033 h 6.421314 v -3.00033 h 6.420794 v 3.00033 h 6.4208 v -3.00033 h 6.42131 v 3.00033 h 6.4208 v -3.00033 h 6.4208 v 3.00033 h 9.00048 v -9.00048 h -3.00033 v -7.33289 h 3.00033 v -7.3334 h -3.00033 v -7.3334 h 3.00033 v -8.99997 H 94.999886 v 25.00002 c 0,2.77 -2.229698,4.9997 -4.999695,4.9997 H 75.000073 c -2.769997,0 -5.000211,-2.2297 -5.000211,-4.9997 v -25.00002 z" />
+  <path
+     id="path141"
+     style="fill:none;stroke:#000000;stroke-opacity:1"
+     d="m 0,-341 v 8.99997 h 2.9998169 v 7.3334 H 0 v 7.3334 h 2.9998169 v 7.3334 H 0 v 8.99997 h 8.9999674 v -3.00033 h 6.4213136 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421314 v 3.00033 h 6.420796 v -3.00033 h 6.421314 v 3.00033 h 6.420797 v -3.00033 h 6.421313 v 3.00033 h 6.420797 v -3.00033 h 6.421311 v 3.00033 h 6.4208 v -3.00033 h 6.42131 v 3.00033 h 6.4208 v -3.00033 h 6.4208 v 3.00033 h 9.00048 v -8.99997 h -3.00033 v -7.3334 h 3.00033 v -7.3334 h -3.00033 v -7.3334 h 3.00033 V -341 H 129 v 19.99981 c 0,2.77 -2.23,5.00021 -5,5.00021 H 79.999768 c -2.769997,0 -4.999695,-2.23021 -4.999695,-5.00021 V -341 Z"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsssscc" />
+</svg>
